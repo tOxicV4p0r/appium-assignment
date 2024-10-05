@@ -2,7 +2,7 @@
 Library    AppiumLibrary
 Library    String
 
-Variables    ../resources/settings/${env}/android.yaml
+Variables    ../resources/settings/${env}/${platform}.yaml
 Variables    ../resources/testdata/data.yaml
 
 Resource    ./common/${platform}/common.robot

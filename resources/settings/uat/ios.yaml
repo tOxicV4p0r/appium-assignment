@@ -1,0 +1,6 @@
+remote_url: http://127.0.0.1:4723    
+platformName: ios
+automationName: XCUITest
+udid: A8BCD194-498F-4872-A675-6F46C904F6F4
+bundleId: com.saucelabs.mydemoapp.rn
+app: /Users/kraisorn.d/Downloads/MyRNDemoApp.app
